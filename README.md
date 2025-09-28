@@ -73,4 +73,6 @@ CDN for static assets.
 Future: Mobile app, analytics dashboard, push notifications.
 Conclusion
 BikeHub addresses a real, relatable problem: simplifying how people buy, compare, and sell two-wheelers. It’s not just a marketplace — it’s a smoother, smarter experience for riders and sellers alike.
+10. This is our front-end mvp prototype and you can check it's functionalities with the demo credentials which are at the bottom of the login page
+    https://bikehub-marketplace.web.app
 
